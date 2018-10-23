@@ -380,7 +380,11 @@ main#home h1 {
 	
 	.projects {
 		grid-template-columns: repeat(2, 1fr); 
-	} 
+	}
+
+	.boxes div {
+		font-size:1.6rem;
+	}
 }
 
 @media screen and (max-width: 500px) {

@@ -81,7 +81,7 @@
 	width: 225px;
 	height: 225px;
 	background: url("../img/portrait.jpg");
-	border-radius: 50%;
+	border-radius: 10%;
 	border: solid 3px #eece1a; 
 }
 
@@ -369,8 +369,8 @@ main#home h1 {
 	
 	.menu-branding .portrait {
 		background: url("../img/portrait_small.jpg");
-		width: 150px;
-		height: 150px; 
+		    width: 174px;
+			height: 192px;
 	}
 	
 	.about-info {
